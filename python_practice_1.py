@@ -1,0 +1,1 @@
+print("Sliepchenko Dania IPZ_Group_7")
