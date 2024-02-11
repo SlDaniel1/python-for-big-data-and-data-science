@@ -1,1 +1,1 @@
-print("Sliepchenko Dania IPZ_Group_7")
+print("Sliepchenko Dania IPZ Group 7")
